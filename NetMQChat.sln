@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetMQChatClient", "..\NetMQChatClient\NetMQChatClient.csproj", "{410A193D-68CB-4148-90D1-A17A09F7D117}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetMQChatClientSecond", "..\ConsoleApp1\NetMQChatClientSecond.csproj", "{5B954088-9C94-4DE5-BCFA-5E47E7DE9E7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{410A193D-68CB-4148-90D1-A17A09F7D117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410A193D-68CB-4148-90D1-A17A09F7D117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410A193D-68CB-4148-90D1-A17A09F7D117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410A193D-68CB-4148-90D1-A17A09F7D117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B954088-9C94-4DE5-BCFA-5E47E7DE9E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B954088-9C94-4DE5-BCFA-5E47E7DE9E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B954088-9C94-4DE5-BCFA-5E47E7DE9E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B954088-9C94-4DE5-BCFA-5E47E7DE9E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECC7E5D9-C7AA-4848-9698-D2B4A6E1D033}
+	EndGlobalSection
+EndGlobal
